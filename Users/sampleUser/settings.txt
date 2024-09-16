@@ -1,0 +1,2 @@
+workout_path=C:\Users\udayr\Desktop\Health Management\Exercises_and_Diets\Cardio_and_Fat_Loss_Routine_Workout.txt
+diet_path=C:\Users\udayr\Desktop\Health Management\Exercises_and_Diets\Cardio_and_Fat_Loss_Routine_Diet.txt
